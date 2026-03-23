@@ -1,0 +1,3 @@
+com\mycompany\exception\PreexistingEntityException.class
+com\mycompany\exception\NonexistentEntityException.class
+com\mycompany\exception\IllegalOrphanException.class

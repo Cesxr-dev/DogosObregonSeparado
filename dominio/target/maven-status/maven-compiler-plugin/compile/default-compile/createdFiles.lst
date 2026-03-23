@@ -1,0 +1,5 @@
+com\mycompany\dominio\MetodoPago.class
+com\mycompany\dominio\Pedido.class
+com\mycompany\dominio\HotDog.class
+com\mycompany\dominio\PedidoDetalle.class
+com\mycompany\dominio\Cliente.class

@@ -1,0 +1,9 @@
+com\mycompany\servicios\PedidoService.class
+com\mycompany\servicios\ClienteService.class
+com\mycompany\servicios\HotDogService.class
+com\mycompany\servicios\IGenericoService.class
+com\mycompany\servicios\IPedidoService.class
+com\mycompany\servicios\IHotDogService.class
+com\mycompany\servicios\IClienteService.class
+com\mycompany\servicios\PedidoDetalleService.class
+com\mycompany\servicios\IPedidoDetalleService.class
